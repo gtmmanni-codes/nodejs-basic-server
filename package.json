@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-basic-server",
+  "version": "1.0.0",
+  "description": "A simple Node.js HTTP server created while learning backend fundamentals. Handles basic routing and server setup using core modules.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gtmmanni-codes/nodejs-basic-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/gtmmanni-codes/nodejs-basic-server/issues"
+  },
+  "homepage": "https://github.com/gtmmanni-codes/nodejs-basic-server#readme"
+}
